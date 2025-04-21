@@ -1,0 +1,138 @@
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Task4.exe
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Task4.deps.json
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Task4.runtimeconfig.json
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Task4.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Task4.pdb
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\View\UserControls\LoginUserControl.g.cs
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4_MarkupCompile.cache
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4_MarkupCompile.lref
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\App.baml
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\View\UserControls\LoginUserControl.baml
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.g.resources
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.sourcelink.json
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.csproj.Up2Date
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.dll
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\refint\Task4.dll
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.pdb
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\Task4.genruntimeconfig.cache
+C:\Users\Daniil\Desktop\Task4-OOP\obj\Debug\net8.0-windows\ref\Task4.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Task4.exe
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Task4.deps.json
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Task4.runtimeconfig.json
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Task4.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Task4.pdb
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\View\UserControls\LoginUserControl.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4_MarkupCompile.cache
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4_MarkupCompile.lref
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\App.baml
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\View\UserControls\LoginUserControl.baml
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.g.resources
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.sourcelink.json
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.csproj.Up2Date
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\refint\Task4.dll
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.pdb
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\Task4.genruntimeconfig.cache
+C:\Users\Daniil\Desktop\moto oop\Task4-OOP\obj\Debug\net8.0-windows\ref\Task4.dll
